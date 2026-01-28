@@ -44,4 +44,3 @@ for _ in range(T):
 
     count, profit = job_sequencing(jobs, N)
     print(count, profit)
-    
